@@ -4,3 +4,4 @@ numpy
 sgp4
 dash
 plotly
+typing
