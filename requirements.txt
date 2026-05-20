@@ -5,3 +5,4 @@ sgp4
 dash
 plotly
 typing
+requests
