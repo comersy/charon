@@ -76,6 +76,7 @@ class Spacecraft:
         self.dry_mass = dry_mass
         self.isp = isp
         self._fuel_mass = fuel_mass
+        self._initial_fuel = fuel_mass 
         self._history: list[ManeuverRecord] = []
 
     # ------------------------------------------------------------------
