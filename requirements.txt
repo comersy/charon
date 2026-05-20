@@ -2,3 +2,5 @@ dataclasses
 datetime
 numpy
 sgp4
+dash
+plotly
